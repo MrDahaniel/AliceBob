@@ -1,1 +1,1 @@
-print('Owo')
+print("Owon't")
